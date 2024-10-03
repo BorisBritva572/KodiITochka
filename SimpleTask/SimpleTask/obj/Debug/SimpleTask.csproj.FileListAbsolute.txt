@@ -1,0 +1,7 @@
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\obj\Debug\SimpleTask.csproj.AssemblyReference.cache
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\bin\Debug\SimpleTask.exe.config
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\bin\Debug\SimpleTask.exe
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\bin\Debug\SimpleTask.pdb
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\obj\Debug\SimpleTask.exe
+C:\Users\Amethyst\Desktop\SoftWare\KodiITochka\SimpleTask\SimpleTask\obj\Debug\SimpleTask.pdb

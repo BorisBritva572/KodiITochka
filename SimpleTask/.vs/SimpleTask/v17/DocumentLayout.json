@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amethyst\\Desktop\\SoftWare\\KodiITochka\\SimpleTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DA7644-65E1-443B-B509-8FABC02A44A4}|SimpleTask\\SimpleTask.csproj|c:\\users\\amethyst\\desktop\\software\\kodiitochka\\simpletask\\simpletask\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DA7644-65E1-443B-B509-8FABC02A44A4}|SimpleTask\\SimpleTask.csproj|solutionrelative:simpletask\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DA7644-65E1-443B-B509-8FABC02A44A4}|SimpleTask\\SimpleTask.csproj|c:\\users\\amethyst\\desktop\\software\\kodiitochka\\simpletask\\simpletask\\simpletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DA7644-65E1-443B-B509-8FABC02A44A4}|SimpleTask\\SimpleTask.csproj|solutionrelative:simpletask\\simpletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\Amethyst\\Desktop\\SoftWare\\KodiITochka\\SimpleTask\\SimpleTask\\main.cs",
+              "RelativeDocumentMoniker": "SimpleTask\\main.cs",
+              "ToolTip": "C:\\Users\\Amethyst\\Desktop\\SoftWare\\KodiITochka\\SimpleTask\\SimpleTask\\main.cs",
+              "RelativeToolTip": "SimpleTask\\main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:01:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleTask.cs",
+              "DocumentMoniker": "C:\\Users\\Amethyst\\Desktop\\SoftWare\\KodiITochka\\SimpleTask\\SimpleTask\\SimpleTask.cs",
+              "RelativeDocumentMoniker": "SimpleTask\\SimpleTask.cs",
+              "ToolTip": "C:\\Users\\Amethyst\\Desktop\\SoftWare\\KodiITochka\\SimpleTask\\SimpleTask\\SimpleTask.cs",
+              "RelativeToolTip": "SimpleTask\\SimpleTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:57:05.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
